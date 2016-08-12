@@ -1,0 +1,11 @@
+/.bundle/
+/.yardoc
+/.travis.yml
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/Guardfile
